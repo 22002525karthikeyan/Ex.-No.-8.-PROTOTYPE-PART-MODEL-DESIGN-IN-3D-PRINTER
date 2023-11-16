@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/22002525karthikeyan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118708040/394f331a-1834-4670-b0b3-2083e29999e2)
+![image](https://github.com/22002525karthikeyan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118708040/6bfa1846-4d4d-4cc5-a482-d97c756c875f)
 
 ### Name: Karthikeyan R
 ### Register Number: 212222240046
